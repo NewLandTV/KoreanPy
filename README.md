@@ -1,4 +1,4 @@
-# **KoreanPy**
+# **KoreanPy(한글 파이썬)**
 
 Implemented Korean programming in Python
 
