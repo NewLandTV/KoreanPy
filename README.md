@@ -2,6 +2,8 @@
 
 Implemented Korean programming in Python
 
+[![Development Note p.192](https://img.youtube.com/vi/pitmtXo6qmc/0.jpg)](https://www.youtube.com/watch?v=pitmtXo6qmc)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
